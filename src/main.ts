@@ -7,4 +7,6 @@ async function start() {
 }
 // async function ends
 
+//! Samandar Irismatillayev (new)
+
 start();
